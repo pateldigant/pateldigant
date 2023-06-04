@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pateldigant" alt="pateldigant" /> </p>
 
-- 🌱 I’m currently learning **Advanced Deep Learning**
+<!-- - 🌱 I’m currently learning **Advanced Deep Learning** -->
 
-- 📝 I sometimes write on [https://www.quora.com/profile/Digant-Patel-4](https://www.quora.com/profile/Digant-Patel-4)
+<!-- - 📝 I sometimes write on [https://www.quora.com/profile/Digant-Patel-4](https://www.quora.com/profile/Digant-Patel-4) -->
 
 - 📫 How to reach me **pateldigant95@gmail.com**
 
